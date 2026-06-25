@@ -60,5 +60,4 @@
 ---
 
 ## 🎥 Demo & Tautan Proyek
-* [cite_start]🌐 **Demo Aplikasi:** [Tempel URL Demo Web Anda di sini, jika ada] 
-* [cite_start]▶️ **Video Presentasi:** [Tempel URL YouTube Presentasi Anda di sini]
+* [cite_start]🌐▶️ **Demo Aplikasi & Video Presentasi:** [Tempel URL Demo Web dan  Presentasi Anda di sini] 
