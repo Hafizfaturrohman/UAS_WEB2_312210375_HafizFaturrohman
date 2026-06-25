@@ -10,7 +10,9 @@
 ## 👨‍💻 Informasi Pengembang
 * **Nama:** [Hafiz Faturrohman]
 * **NIM:** [312210375]
-
+* **Kelas:** I241A
+* **Kampus:** Universitas Pelita Bangsa
+  
 ---
 
 ## 🚀 Teknologi yang Digunakan
